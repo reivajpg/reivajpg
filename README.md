@@ -52,3 +52,7 @@ Here are some ideas to get you started:
 
 | [__atc_mi_interface__](https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface)  in https://github.com/pvvx/ATC_MiThermometer |
 |-|
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=reivajpg&icon=0&color=0)](https://visitcount.itsvg.in)
