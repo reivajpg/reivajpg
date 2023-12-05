@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/reivajpg/CJMCU-232H">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=CJMCU-232H&theme=transparent&text_color=78808a" />
 </a>
-<a href="https://github.com/reivajpg/IR2SLink">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=IR2SLink&theme=transparent&text_color=78808a" />
+<a href="https://github.com/reivajpg/My_PIO_Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=My_PIO_Projects&theme=transparent&text_color=78808a" />
 </a>
 <a href="https://github.com/reivajpg/adc_to_i2c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=adc_to_i2c&theme=transparent&text_color=78808a" />
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/reivajpg/raspberry_monitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=raspberry_monitor&theme=transparent&text_color=78808a" />
 </a>
-<a href="https://github.com/reivajpg/test_attiny88_pins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=test_attiny88_pins&theme=transparent&text_color=78808a" />
+<a href="https://github.com/reivajpg/CCLoader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=CCLoader&theme=transparent&text_color=78808a" />
 </a>
-<a href="https://github.com/reivajpg/Event_Logger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=Event_Logger&theme=transparent&text_color=78808a" />
+<a href="https://github.com/reivajpg/RPI_Pico">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reivajpg&repo=RPI_Pico&theme=transparent&text_color=78808a" />
 </a>
 
 | [__atc_mi_interface__](https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface)  in https://github.com/pvvx/ATC_MiThermometer |
