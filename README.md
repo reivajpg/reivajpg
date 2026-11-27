@@ -1,20 +1,34 @@
-### Hi there 👋
+### Hi, I'm Javier Pelegrin 👋
 
-<!--
-**reivajpg/reivajpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical & Hardware Design Engineer** focused on industrial automation, schematic design, embedded systems, and component-level electronics. Currently pursuing a **B.Eng. in Industrial Electronics and Automation Engineering** (UNED).
 
-Here are some ideas to get you started:
+I bridge hands-on industrial hardware with software automation—from designing control cabinets and reverse-engineering SMD circuits to building embedded firmware, web utilities, and self-hosted infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🛠️ Technical Stack
+
+* **Electrical & Hardware Design:** EPLAN Electric P8, AutoCAD, KiCad, Component-level Diagnostics & Reverse Engineering
+* **Industrial Automation:** Siemens PLCs (S7-300 / S7-1200, ET 200SP), Industrial Networks (Profibus, Modbus RTU, IO-Link, HART), VFDs
+* **Embedded & IoT:** ESP32, STM32, RP2040, ESPHome, C / C++
+* **Software & Web Tools:** Python, JavaScript, HTML5 Canvas, CSS, Shell Scripting
+* **Infrastructure & Homelab:** Proxmox VE, Linux, TrueNAS, WireGuard, Home Assistant, Self-hosted Services
+
+---
+
+### 🔧 What I Build & Tinker With
+
+* **Hardware & Reverse Engineering:** Modifying industrial relays/modules at the SMD level, VFD diagnostics, and custom PCB tracing in KiCad.
+* **Embedded Projects:** Custom firmware and IoT integrations using ESP32, STM32, and RP2040 microcontrollers.
+* **Engineering Utilities & Simulations:** Python and JS web tools to automate engineering workflows, plus interactive physics simulations.
+* **Self-Hosted Lab:** Running and automating local services, networking, and backups on a Proxmox VE server.
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpelegring)
+[![Website](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://reivajpg.github.io)
 
 
 <picture>
